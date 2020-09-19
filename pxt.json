@@ -1,11 +1,11 @@
 {
     "name": "pxt-calliope-bc95",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "NB-IoT BC95 Module",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "pxt-calliope-modem":"github:calliope-mini/pxt-calliope-modem#v1.0.2"
     },
     "files": [
         "README.md",
